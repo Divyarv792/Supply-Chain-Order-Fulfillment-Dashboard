@@ -1,0 +1,124 @@
+order_id,order_date,required_date,order_status,customer_name,city,state,product_name,category,warehouse_name,ordered_qty,dispatched_qty,pending_qty,fill_rate,delay_days,return_qty
+2051,02-Mar-24,08-Mar-24,Completed,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,40,40,0,100,0,0
+2051,02-Mar-24,08-Mar-24,Completed,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve X,Valves,Chennai DC,20,20,0,100,0,0
+2052,04-Mar-24,11-Mar-24,Completed,Metro Distributors,Bangalore,Karnataka,Control Panel Basic,Panels,Bangalore Hub,15,15,0,100,0,0
+2054,10-Mar-24,18-Mar-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,12,12,0,100,0,0
+2054,10-Mar-24,18-Mar-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,30,30,0,100,0,0
+2056,02-Apr-24,09-Apr-24,Completed,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,45,45,0,100,0,0
+2056,02-Apr-24,09-Apr-24,Completed,Prime Stores,Chennai,Tamil Nadu,Control Panel Basic,Panels,Chennai DC,20,20,0,100,0,0
+2058,08-Apr-24,16-Apr-24,Completed,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Small,Gears,Mumbai Central,14,14,0,100,0,0
+2059,12-Apr-24,20-Apr-24,Completed,Capital Retail,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,15,15,0,100,0,0
+2059,12-Apr-24,20-Apr-24,Completed,Capital Retail,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,32,32,0,100,0,0
+2060,18-Apr-24,26-Apr-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,11,11,0,100,0,0
+2060,18-Apr-24,26-Apr-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,18,18,0,100,0,0
+2061,03-May-24,10-May-24,Completed,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,42,42,0,100,0,0
+2061,03-May-24,10-May-24,Completed,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve Y,Valves,Chennai DC,18,18,0,100,0,0
+2062,07-May-24,15-May-24,Completed,Metro Distributors,Bangalore,Karnataka,Control Panel Basic,Panels,Bangalore Hub,12,12,0,100,0,0
+2064,15-May-24,23-May-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,10,10,0,100,0,0
+2064,15-May-24,23-May-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,34,34,0,100,0,0
+2066,04-Jun-24,12-Jun-24,Completed,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,48,48,0,100,0,0
+2066,04-Jun-24,12-Jun-24,Completed,Prime Stores,Chennai,Tamil Nadu,Control Panel Basic,Panels,Chennai DC,22,22,0,100,0,0
+2068,13-Jun-24,21-Jun-24,Completed,Value Wholesale,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,28,28,0,100,0,0
+2068,13-Jun-24,21-Jun-24,Completed,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Small,Gears,Mumbai Central,16,16,0,100,0,0
+2069,18-Jun-24,26-Jun-24,Completed,Capital Retail,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,14,14,0,100,0,0
+2069,18-Jun-24,26-Jun-24,Completed,Capital Retail,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,36,36,0,100,0,0
+2070,22-Jun-24,30-Jun-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,12,12,0,100,0,0
+2070,22-Jun-24,30-Jun-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,20,20,0,100,0,0
+2071,03-Jul-24,11-Jul-24,Completed,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve X,Valves,Chennai DC,24,24,0,100,0,0
+2072,07-Jul-24,15-Jul-24,Completed,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,32,32,0,100,0,0
+2072,07-Jul-24,15-Jul-24,Completed,Metro Distributors,Bangalore,Karnataka,Control Panel Basic,Panels,Bangalore Hub,14,14,0,100,0,0
+2074,16-Jul-24,24-Jul-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,11,11,0,100,0,0
+2074,16-Jul-24,24-Jul-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,35,35,0,100,0,0
+2075,20-Jul-24,28-Jul-24,Completed,Sri Enterprises,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,13,13,0,100,0,0
+2075,20-Jul-24,28-Jul-24,Completed,Sri Enterprises,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,18,18,0,100,0,0
+2076,05-Aug-24,13-Aug-24,Completed,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,46,46,0,100,0,0
+2076,05-Aug-24,13-Aug-24,Completed,Prime Stores,Chennai,Tamil Nadu,Control Panel Basic,Panels,Chennai DC,21,21,0,100,0,0
+2078,13-Aug-24,21-Aug-24,Completed,Value Wholesale,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,27,27,0,100,0,0
+2078,13-Aug-24,21-Aug-24,Completed,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Small,Gears,Mumbai Central,15,15,0,100,0,0
+2079,18-Aug-24,26-Aug-24,Completed,Capital Retail,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,16,16,0,100,0,0
+2079,18-Aug-24,26-Aug-24,Completed,Capital Retail,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,38,38,0,100,0,0
+2080,22-Aug-24,30-Aug-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,14,14,0,100,0,0
+2080,22-Aug-24,30-Aug-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,22,22,0,100,0,0
+2081,03-Sep-24,11-Sep-24,Completed,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,44,44,0,100,0,0
+2081,03-Sep-24,11-Sep-24,Completed,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve Y,Valves,Chennai DC,20,20,0,100,0,0
+2083,12-Sep-24,20-Sep-24,Completed,National Retail,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,24,24,0,100,0,0
+2083,12-Sep-24,20-Sep-24,Completed,National Retail,Mumbai,Maharashtra,Control Panel Pro,Panels,Mumbai Central,28,28,0,100,0,0
+2084,16-Sep-24,24-Sep-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,12,12,0,100,0,0
+2084,16-Sep-24,24-Sep-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,36,36,0,100,0,0
+2086,04-Oct-24,12-Oct-24,Completed,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,50,50,0,100,0,0
+2086,04-Oct-24,12-Oct-24,Completed,Prime Stores,Chennai,Tamil Nadu,Control Panel Basic,Panels,Chennai DC,24,24,0,100,0,0
+2088,13-Oct-24,21-Oct-24,Completed,Value Wholesale,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,30,30,0,100,0,0
+2088,13-Oct-24,21-Oct-24,Completed,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Small,Gears,Mumbai Central,18,18,0,100,0,0
+2089,18-Oct-24,26-Oct-24,Completed,Capital Retail,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,16,16,0,100,0,0
+2089,18-Oct-24,26-Oct-24,Completed,Capital Retail,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,38,38,0,100,0,0
+2090,22-Oct-24,30-Oct-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,14,14,0,100,0,0
+2090,22-Oct-24,30-Oct-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,22,22,0,100,0,0
+2091,03-Nov-24,11-Nov-24,Completed,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve X,Valves,Chennai DC,26,26,0,100,0,0
+2092,07-Nov-24,15-Nov-24,Completed,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,34,34,0,100,0,0
+2092,07-Nov-24,15-Nov-24,Completed,Metro Distributors,Bangalore,Karnataka,Control Panel Basic,Panels,Bangalore Hub,18,18,0,100,0,0
+2094,16-Nov-24,24-Nov-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,13,13,0,100,0,0
+2094,16-Nov-24,24-Nov-24,Completed,City Mart,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,40,40,0,100,0,0
+2095,21-Nov-24,29-Nov-24,Completed,Sri Enterprises,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,15,15,0,100,0,0
+2095,21-Nov-24,29-Nov-24,Completed,Sri Enterprises,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,24,24,0,100,0,0
+2096,04-Dec-24,12-Dec-24,Completed,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,52,52,0,100,0,0
+2096,04-Dec-24,12-Dec-24,Completed,Prime Stores,Chennai,Tamil Nadu,Control Panel Basic,Panels,Chennai DC,26,26,0,100,0,0
+2098,13-Dec-24,21-Dec-24,Completed,Value Wholesale,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,32,32,0,100,0,0
+2098,13-Dec-24,21-Dec-24,Completed,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Small,Gears,Mumbai Central,20,20,0,100,0,0
+2099,18-Dec-24,26-Dec-24,Completed,Capital Retail,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,18,18,0,100,0,0
+2099,18-Dec-24,26-Dec-24,Completed,Capital Retail,Delhi,Delhi,Gear Assembly Large,Gears,Delhi North,42,42,0,100,0,0
+2100,22-Dec-24,30-Dec-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 5HP,Motors,Hyderabad Hub,16,16,0,100,0,0
+2100,22-Dec-24,30-Dec-24,Completed,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,25,25,0,100,0,0
+1001,02-Jan-24,08-Jan-24,Open,Apex Traders,Chennai,Tamil Nadu,Hydraulic Valve X,Valves,Chennai DC,30,30,0,100,0,0
+1002,03-Jan-24,10-Jan-24,Open,National Retail,Mumbai,Maharashtra,Control Panel Basic,Panels,Mumbai Central,10,10,0,100,0,0
+1003,05-Jan-24,12-Jan-24,Open,Sri Enterprises,Hyderabad,Telangana,Gear Assembly Small,Gears,Hyderabad Hub,20,20,0,100,0,0
+1004,06-Jan-24,09-Jan-24,Open,Metro Distributors,Bangalore,Karnataka,Industrial Motor 5HP,Motors,Bangalore Hub,15,15,0,100,0,0
+1005,07-Jan-24,15-Jan-24,Open,Urban Supply,Bangalore,Karnataka,Gear Assembly Large,Gears,Bangalore Hub,18,18,0,100,0,0
+1006,08-Jan-24,14-Jan-24,Open,Capital Retail,Delhi,Delhi,Hydraulic Valve X,Valves,Delhi North,35,35,0,100,0,0
+1007,09-Jan-24,18-Jan-24,Open,City Mart,Delhi,Delhi,Gear Assembly Small,Gears,Delhi North,30,30,0,100,0,0
+1008,10-Jan-24,16-Jan-24,Open,Prime Stores,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,45,45,0,100,0,0
+1009,12-Jan-24,20-Jan-24,Open,Value Wholesale,Mumbai,Maharashtra,Control Panel Basic,Panels,Mumbai Central,5,5,0,100,0,0
+1010,14-Jan-24,22-Jan-24,Open,Deccan Traders,Hyderabad,Telangana,Control Panel Pro,Panels,Hyderabad Hub,7,7,0,100,0,0
+2002,03-Feb-24,07-Feb-24,Open,National Retail,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,12,12,0,100,15,0
+2003,04-Feb-24,08-Feb-24,Open,City Mart,Delhi,Delhi,Hydraulic Valve Y,Valves,Delhi North,13,13,0,100,15,0
+2004,05-Feb-24,09-Feb-24,Open,Sri Enterprises,Hyderabad,Telangana,Control Panel Basic,Panels,Hyderabad Hub,14,14,0,100,15,0
+2006,07-Feb-24,11-Feb-24,Open,Urban Supply,Bangalore,Karnataka,Gear Assembly Small,Gears,Bangalore Hub,16,16,0,100,15,0
+2007,08-Feb-24,12-Feb-24,Open,Value Wholesale,Mumbai,Maharashtra,Gear Assembly Large,Gears,Mumbai Central,17,17,0,100,15,0
+2008,09-Feb-24,13-Feb-24,Open,Capital Retail,Delhi,Delhi,Industrial Motor 5HP,Motors,Delhi North,18,18,0,100,15,0
+2009,10-Feb-24,14-Feb-24,Open,Deccan Traders,Hyderabad,Telangana,Industrial Motor 10HP,Motors,Hyderabad Hub,19,19,0,100,15,0
+1001,02-Jan-24,08-Jan-24,Open,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,50,30,22,56,0,2
+1002,03-Jan-24,10-Jan-24,Open,National Retail,Mumbai,Maharashtra,Industrial Pump B,Pumps,Mumbai Central,40,20,21,47.5,0,1
+1003,05-Jan-24,12-Jan-24,Open,Sri Enterprises,Hyderabad,Telangana,Hydraulic Valve Y,Valves,Hyderabad Hub,25,10,15,40,0,0
+1004,06-Jan-24,09-Jan-24,Open,Metro Distributors,Bangalore,Karnataka,Industrial Pump A,Pumps,Bangalore Hub,60,40,23,61.67,0,3
+1005,07-Jan-24,15-Jan-24,Open,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,8,5,3,62.5,0,0
+1006,08-Jan-24,14-Jan-24,Open,Capital Retail,Delhi,Delhi,Industrial Motor 10HP,Motors,Delhi North,12,6,7,41.67,0,1
+1007,09-Jan-24,18-Jan-24,Open,City Mart,Delhi,Delhi,Industrial Pump B,Pumps,Delhi North,20,10,10,50,0,0
+1008,10-Jan-24,16-Jan-24,Open,Prime Stores,Chennai,Tamil Nadu,Hydraulic Valve Y,Valves,Chennai DC,22,12,12,45.45,0,2
+1009,12-Jan-24,20-Jan-24,Open,Value Wholesale,Mumbai,Maharashtra,Industrial Motor 5HP,Motors,Mumbai Central,10,5,5,50,0,0
+1010,14-Jan-24,22-Jan-24,Open,Deccan Traders,Hyderabad,Telangana,Gear Assembly Large,Gears,Hyderabad Hub,16,8,8,50,0,0
+2001,02-Feb-24,06-Feb-24,Open,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,11,11,1,90.91,15,1
+2005,06-Feb-24,10-Feb-24,Open,Prime Stores,Chennai,Tamil Nadu,Control Panel Pro,Panels,Chennai DC,15,15,2,86.67,15,2
+2052,04-Mar-24,11-Mar-24,Completed,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,35,35,2,94.29,0,2
+2053,07-Mar-24,14-Mar-24,Pending,National Retail,Mumbai,Maharashtra,Hydraulic Valve Y,Valves,Mumbai Central,18,8,11,38.89,0,1
+2053,07-Mar-24,14-Mar-24,Pending,National Retail,Mumbai,Maharashtra,Control Panel Pro,Panels,Mumbai Central,25,10,15,40,0,0
+2057,05-Apr-24,12-Apr-24,Pending,Urban Supply,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,22,10,14,36.36,0,2
+2057,05-Apr-24,12-Apr-24,Pending,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,28,12,16,42.86,0,0
+2058,08-Apr-24,16-Apr-24,Completed,Value Wholesale,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,26,26,1,96.15,0,1
+2062,07-May-24,15-May-24,Completed,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,30,30,1,96.67,0,1
+2063,11-May-24,18-May-24,Pending,National Retail,Mumbai,Maharashtra,Hydraulic Valve X,Valves,Mumbai Central,20,10,12,40,0,2
+2063,11-May-24,18-May-24,Pending,National Retail,Mumbai,Maharashtra,Control Panel Pro,Panels,Mumbai Central,26,12,14,46.15,0,0
+2067,08-Jun-24,16-Jun-24,Pending,Urban Supply,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,24,12,13,45.83,0,1
+2067,08-Jun-24,16-Jun-24,Pending,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,30,15,15,50,0,0
+2071,03-Jul-24,11-Jul-24,Completed,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,40,40,1,97.5,0,1
+2073,12-Jul-24,20-Jul-24,Pending,National Retail,Mumbai,Maharashtra,Hydraulic Valve Y,Valves,Mumbai Central,19,9,10,47.37,0,0
+2073,12-Jul-24,20-Jul-24,Pending,National Retail,Mumbai,Maharashtra,Control Panel Pro,Panels,Mumbai Central,27,13,14,48.15,0,0
+2077,09-Aug-24,17-Aug-24,Pending,Urban Supply,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,25,14,13,48,0,2
+2077,09-Aug-24,17-Aug-24,Pending,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,29,16,13,55.17,0,0
+2082,07-Sep-24,15-Sep-24,Pending,Metro Distributors,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,26,14,13,50,0,1
+2082,07-Sep-24,15-Sep-24,Pending,Metro Distributors,Bangalore,Karnataka,Control Panel Basic,Panels,Bangalore Hub,16,8,8,50,0,0
+2087,08-Oct-24,16-Oct-24,Pending,Urban Supply,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,28,15,15,46.43,0,2
+2087,08-Oct-24,16-Oct-24,Pending,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,32,16,16,50,0,0
+2091,03-Nov-24,11-Nov-24,Completed,Apex Traders,Chennai,Tamil Nadu,Industrial Pump A,Pumps,Chennai DC,42,42,1,97.62,0,1
+2093,12-Nov-24,20-Nov-24,Pending,National Retail,Mumbai,Maharashtra,Hydraulic Valve Y,Valves,Mumbai Central,20,10,10,50,0,0
+2093,12-Nov-24,20-Nov-24,Pending,National Retail,Mumbai,Maharashtra,Control Panel Pro,Panels,Mumbai Central,30,14,16,46.67,0,0
+2097,08-Dec-24,16-Dec-24,Pending,Urban Supply,Bangalore,Karnataka,Industrial Pump B,Pumps,Bangalore Hub,30,16,16,46.67,0,2
+2097,08-Dec-24,16-Dec-24,Pending,Urban Supply,Bangalore,Karnataka,Control Panel Pro,Panels,Bangalore Hub,34,18,16,52.94,0,0
